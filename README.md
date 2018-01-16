@@ -1,3 +1,5 @@
+Windows compiled version available: https://github.com/hsab/GrowthNodes/releases/tag/v0.3.0
+
 This branch will likely not be maintained. Please refer to master. What you see below is the proposal I wrote before developing the addon. Special thanks to [Jacques Lucke](https://twitter.com/jacqueslucke?lang=en) whose addon, [Animation Nodes](https://github.com/JacquesLucke/animation_nodes), was inspirational in how I approached user interactivity and data management in GrowthNodes.
 
 # UMOG: Unified Model of Organic Growth
