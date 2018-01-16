@@ -23,5 +23,3 @@ We are hoping to implement the UI using Blender's existing node system, [PyNodes
 Inspiration
 -----------
 This project was inspired by a [video](https://www.youtube.com/watch?v=9HI8FerKr6Q) released by [deskriptiv](http://www.deskriptiv.de/) in collaboration with [Mediated Matter Group](http://matter.media.mit.edu/) at MIT investigating the possibilities of [Wearables for Interplanetary Travels](https://www.behance.net/gallery/21605971/Neri-Oxman-Wanderers).
-
-![](http://i.imgur.com/5NNxsrd.png)
