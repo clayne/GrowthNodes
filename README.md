@@ -51,10 +51,3 @@ We believed that this model and its possibilities must be shared in an open and 
 Thus we decided to develop the system for Blender which has been an open-source project since 2002 and one of the biggest advocates of open-source mentality in the industry, while delivering a truly competitive and lean software in comparison to other proprietary suites such as Maya, 3Ds Max, Modo, C4D, etc.  
 
 After completion, the project will be shared as open-source and will be proposed to Blender Foundation to be included as an official addon in their library, which in turn will attract more developers and enthusiasts to jump on board.
-
-Contributions from
-----------------------
-*   Jacob Luke
-*   Micah Johnston
-*   Marsh Poulson IV
-*   Hirad Sabaghian
