@@ -1,4 +1,6 @@
-# Unified Model of Organic Growth
+This branch will likely not be maintained. Please refer to master. What you see below is the proposal I wrote before developing the addon. Special thanks to [Jacques Lucke](https://twitter.com/jacqueslucke?lang=en) whose addon, [Animation Nodes](https://github.com/JacquesLucke/animation_nodes), was inspirational in how I approached user interactivity and data management in GrowthNodes.
+
+# UMOG: Unified Model of Organic Growth
 A Blender plugin for generative content creation and simulation of organic growth processes.
 
 Inspired by Computational Growth by Deskriptiv and Wanderers by Mediated Matter. 
@@ -50,7 +52,7 @@ Thus we decided to develop the system for Blender which has been an open-source 
 
 After completion, the project will be shared as open-source and will be proposed to Blender Foundation to be included as an official addon in their library, which in turn will attract more developers and enthusiasts to jump on board.
 
-Team Members
+Contributions from
 ----------------------
 *   Jacob Luke
 *   Micah Johnston
